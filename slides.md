@@ -5,9 +5,10 @@
 | ------------ | ----------------------------------------- | ---- | ---- |
 |      |      |      |      |
 | Hello World! |      |  [Week1-1 Hello World][hc-getting-started]   |      |
-|      |      |      |      |
+|   基礎I/O、變數、運算子  |      |  [Week1-2 variable][hc-variable]    |      |
 
 [hc-getting-started]: https://docs.google.com/presentation/d/1PKSi_w4ByfEqsdobigMur0aPyXr9IeAcvP3H4d2ISiY/edit?usp=sharing
+[hc-variable]: https://docs.google.com/presentation/d/1Vpn3NYpGjf0oDy8xlAIzQxrVjyYcIRn27x-qQL4XNVM/edit#slide=id.p
 
 ## 第二週 03/12
 
