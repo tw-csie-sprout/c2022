@@ -4,7 +4,7 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |      |      |      |      |
-| Hello World! |      |      | [Week1-1 Hello World][hc-getting-started]     |
+| Hello World! |      |  [Week1-1 Hello World][hc-getting-started]   |      |
 |      |      |      |      |
 
 [hc-getting-started]: https://docs.google.com/presentation/d/1PKSi_w4ByfEqsdobigMur0aPyXr9IeAcvP3H4d2ISiY/edit?usp=sharing
