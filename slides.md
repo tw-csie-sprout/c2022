@@ -7,7 +7,7 @@
 | Hello World! |  [Week1-1 Hello World][tp-getting-started]    |  [Week1-1 Hello World][hc-getting-started]   |      |
 |   基礎I/O、變數、運算子  |      |  [Week1-2 variable][hc-variable]    |      |
 
-[tp-introduction]:https://drive.google.com/file/d/1z_LVNuGplCrojoLaKgNEO23j0vnkFUOi/view?usp=sharing
+[tp-introduction]:https://drive.google.com/file/d/1tZC6zB6viX8aO-8AvH1u8hyOkp18QWd8/view?usp=sharing
 [tp-getting-started]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2021/GettingStarted/#/
 [hc-getting-started]: https://docs.google.com/presentation/d/1PKSi_w4ByfEqsdobigMur0aPyXr9IeAcvP3H4d2ISiY/edit?usp=sharing
 [hc-variable]: https://docs.google.com/presentation/d/1Vpn3NYpGjf0oDy8xlAIzQxrVjyYcIRn27x-qQL4XNVM/edit#slide=id.p
