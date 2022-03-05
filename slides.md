@@ -18,9 +18,10 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|      |      |      |      |
+| 條件式        | [Week2-1 條件判斷(學員用)][tp-condition]     |      |      |
 |      |      |      |      |
 
+[tp-condition]: https://docs.google.com/presentation/d/11RwguatrMQ5Sazo4Hxcyb94XTn1ceMhiF9Gf9ZL8IVI/edit?usp=sharing
 
 
 ## 第三週 03/19
