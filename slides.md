@@ -4,7 +4,7 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |   課程介紹   |   [Week1-0 課程介紹][tp-introduction]   |  [Week1-0 課程介紹][hc-introduction]  |      |
-| Hello World! |  [Week1-1 Hello World][tp-getting-started]    |  [Week1-1 Hello World][hc-getting-started]   |      |
+| Hello World! |  [Week1-1 Hello World][tp-getting-started]    |  [Week1-1 Hello World][hc-getting-started]   |  [竹區影片][hc-yt-getting-started]    |
 |   基礎I/O、變數、運算子  |   [Week1-2 variable][tp-variable]  |  [Week1-2 variable][hc-variable]    |      |
 
 [tp-introduction]: https://drive.google.com/file/d/1tZC6zB6viX8aO-8AvH1u8hyOkp18QWd8/view?usp=sharing
@@ -13,6 +13,7 @@
 [hc-introduction]: https://docs.google.com/presentation/d/1h-aVlZic6CbImP8O-A4292PUtAkowzuKDWNu5WNVV-4/edit?usp=sharing
 [hc-getting-started]: https://docs.google.com/presentation/d/1PKSi_w4ByfEqsdobigMur0aPyXr9IeAcvP3H4d2ISiY/edit?usp=sharing
 [hc-variable]: https://docs.google.com/presentation/d/1Vpn3NYpGjf0oDy8xlAIzQxrVjyYcIRn27x-qQL4XNVM/edit#slide=id.p
+[hc-yt-getting-started]:https://www.youtube.com/watch?v=NqSSEgxymrI
 
 ## 第二週 03/12
 
