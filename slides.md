@@ -19,10 +19,10 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|      |      |      |      |
+|   if-else   |      |   [Week2-0 if-else][hc-if-else]   |      |
 |      |      |      |      |
 
-
+[Week2-0 if-else][hc-if-else]:https://docs.google.com/presentation/d/1ZOdWIh0Uvy6w6cOxNIVj8DJDrhSQY1elhFzm9mVeXmk/edit#slide=id.p
 
 ## 第三週 03/19
 
