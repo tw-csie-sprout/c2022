@@ -24,8 +24,10 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   if-else   |      |   [Week2-0 if-else][hc-if-else]   |      |
+|   if-else   | [Week2-1 if-else(學員用)][tp-if-else]     |   [Week2-0 if-else][hc-if-else]   |      |
 |      |      |      |      |
+
+[tp-if-else]: https://docs.google.com/presentation/d/11RwguatrMQ5Sazo4Hxcyb94XTn1ceMhiF9Gf9ZL8IVI/edit?usp=sharing
 
 [hc-if-else]:https://docs.google.com/presentation/d/1ZOdWIh0Uvy6w6cOxNIVj8DJDrhSQY1elhFzm9mVeXmk/edit#slide=id.p
 
