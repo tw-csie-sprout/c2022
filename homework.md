@@ -4,7 +4,7 @@
 
 | 日期 | 週次 | 上課練習                                               | 勾選作業                                                         | 其他習題 | 檢討                             |
 | :--: | :--: | :----------------------------------------------------- | :--------------------------------------------------------------- | :------- | :------------------------------- |
-| 0305 |  01  |     [287 - 喵][neoj-287] <br>  [289 - 福祿猴的反敗][neoj-289]  |     [803 - 分數統計][neoj-803]<br>[6002 - 小普敲鍵盤][neoj-6002]    |          |      |
+| 0305 |  01  |     [287 - 喵][neoj-287] <br>  [289 - 福祿猴的反敗][neoj-289]  |     [803 - 分數統計][neoj-803]<br>[6002 - 小普敲鍵盤][neoj-6002]    |          | [竹區影片][hc-review-video-w1] <br> [竹區簡報][hc-review-video-w1]     |
 | 0312 |  02  |    [208 - 季節判斷 - 2015][neoj-208]  <br> [893 - 數字塔][neoj-893]  |    [6005 - 排序了嗎？][neoj-6005]  <br> [801- 3n+1問題][neoj-801]    |     [[北C]迴圈補充題單][bc-more-loops]     |      |
 | 0319 |  03  |          |          |          |      |
 | 0326 |  04  |          |          |          |      |
@@ -31,3 +31,5 @@
 [neoj-801]: https://neoj.sprout.tw/problem/801/
 [neoj-893]: https://neoj.sprout.tw/problem/893/
 [bc-more-loops]: https://drive.google.com/file/d/1hXlB3o7puvLzhU_6_VLqEVJLUm7YSgFq/view?usp=sharing
+[hc-review-ppt-w1]: https://docs.google.com/presentation/d/1qFh5DwSikROY4qvMnuAPxVOUnu9jzbgvhEq-PcziAIA/edit#slide=id.g119b8cc9bd9_2_223 
+[hc-review-video-w1]: https://www.youtube.com/watch?v=Gj4oKqYMSTo
