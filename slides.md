@@ -25,7 +25,7 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |   if-else   | [Week2-1 if-else][tp-if-else]     |   [Week2-0 if-else][hc-if-else]   |  [北區影片][tp-yt-if-else]    |
-|  loop    |   [Week2-1 loop][bc-loop]    |   [Week2-1 loop][hc-loop]   |     [北區影片][tp-yt-loop] |
+|  loop    |   [Week2-2 loop][bc-loop]    |   [Week2-1 loop][hc-loop]   |     [北區影片][tp-yt-loop] |
 
 [tp-if-else]: https://docs.google.com/presentation/d/14cdj1tf3YMa5B4eUl-1ojRi9otG8DsiPl1jGmPTpImw/edit?usp=sharing
 [hc-if-else]:https://docs.google.com/presentation/d/1ZOdWIh0Uvy6w6cOxNIVj8DJDrhSQY1elhFzm9mVeXmk/edit#slide=id.p
