@@ -10,9 +10,9 @@
 [tp-introduction]: https://drive.google.com/file/d/1tZC6zB6viX8aO-8AvH1u8hyOkp18QWd8/view?usp=sharing
 [tp-getting-started]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2021/GettingStarted/#/
 [tp-variable]: https://slides.com/allen522019/20210508
-[tp-yt-introduction]: https://youtu.be/hZcVcaq1xgk
-[tp-yt-getting-started]: https://youtu.be/z9G3VNm-7mg
-[tp-yt-variable]:https://youtu.be/j8-Ws4qeA4M
+[tp-yt-introduction]: https://youtu.be/DOblj6ukB0I 
+[tp-yt-getting-started]: https://youtu.be/DOblj6ukB0I 
+[tp-yt-variable]: https://youtu.be/RxflJughLfg
 [hc-introduction]: https://docs.google.com/presentation/d/1h-aVlZic6CbImP8O-A4292PUtAkowzuKDWNu5WNVV-4/edit?usp=sharing
 [hc-getting-started]: https://docs.google.com/presentation/d/1PKSi_w4ByfEqsdobigMur0aPyXr9IeAcvP3H4d2ISiY/edit?usp=sharing
 [hc-variable]: https://docs.google.com/presentation/d/1Vpn3NYpGjf0oDy8xlAIzQxrVjyYcIRn27x-qQL4XNVM/edit#slide=id.p
