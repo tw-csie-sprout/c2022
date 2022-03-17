@@ -34,7 +34,7 @@
 [tp-yt-if-else]: https://youtu.be/7ihhZJNoCDY
 [tp-yt-loop]: https://www.youtube.com/playlist?list=PLp5kjMAmhp-8L5FCxOpCl325WZ3So_dw6
 [hc-yt-loop]: https://youtu.be/YLlO4tFrimc
-[tp-yt-if-else]: https://www.youtube.com/watch?v=w1kQdifNFJ4
+[hc-yt-if-else]: https://www.youtube.com/watch?v=w1kQdifNFJ4
 
 ## 第三週 03/19
 
