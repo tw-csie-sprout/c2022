@@ -40,11 +40,12 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   一維陣列              |   [Week3-1 一維陣列][tp-array]     |      |      |
+|   一維陣列              |   [Week3-1 一維陣列][tp-array]     |  [Week3-0 1D陣列][hc-array]    |      |
 |   字元、字串(C-style)   |   [Week3-2 字元、字串(C-style)][tp-char]   |      |      |
 
 [tp-char]: https://slides.com/allen522019/20220305-59f8e3
 [tp-array]: https://hackmd.io/@ruby0322/ByNmbTSW5
+[hc-array]: https://docs.google.com/presentation/d/1o6CSHiaKQP96q6Id7nEKTbtEJS-bSh510DvtGwV5-Uo/edit?usp=sharing
 
 ## 第四週 03/26
 | 主題         | 北區                                      | 竹區 | 影片 |
