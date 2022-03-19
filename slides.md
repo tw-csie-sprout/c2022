@@ -48,7 +48,7 @@
 [hc-array]: https://docs.google.com/presentation/d/1o6CSHiaKQP96q6Id7nEKTbtEJS-bSh510DvtGwV5-Uo/edit?usp=sharing
 [hc-char]: https://docs.google.com/presentation/d/1SVWvpym1kdkrjrSVtvykE56zTl2Nuu0Fpj2W7lrZJC0/edit?usp=sharing
 [hc-yt-char]: https://youtu.be/-_xzNoC5vMI
-[yp-yt-char]: https://youtu.be/XTsRLAzNBPM
+[tp-yt-char]: https://youtu.be/XTsRLAzNBPM
 
 ## 第四週 03/26
 | 主題         | 北區                                      | 竹區 | 影片 |
