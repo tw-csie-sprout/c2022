@@ -24,8 +24,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   if-else   | [Week2-1 if-else][tp-if-else]     |   [Week2-0 if-else][hc-if-else]   |  [北區影片][tp-yt-if-else] [竹區影片][hc-yt-if-else]    |
-|  loop    |   [Week2-2 loop][bc-loop]    |   [Week2-1 loop][hc-loop]   |     [北區影片][tp-yt-loop] [竹區影片][hc-yt-loop]|
+|   if-else   | [Week2-0 if-else][tp-if-else]     |   [Week2-0 if-else][hc-if-else]   |  [北區影片][tp-yt-if-else] [竹區影片][hc-yt-if-else]    |
+|  loop    |   [Week2-1 loop][bc-loop]    |   [Week2-1 loop][hc-loop]   |     [北區影片][tp-yt-loop] [竹區影片][hc-yt-loop]|
 
 [tp-if-else]: https://docs.google.com/presentation/d/14cdj1tf3YMa5B4eUl-1ojRi9otG8DsiPl1jGmPTpImw/edit?usp=sharing
 [hc-if-else]:https://docs.google.com/presentation/d/1ZOdWIh0Uvy6w6cOxNIVj8DJDrhSQY1elhFzm9mVeXmk/edit#slide=id.p
@@ -40,14 +40,15 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   一維陣列              |   [Week3-1 一維陣列][tp-array]     |  [Week3-0 1D陣列][hc-array]    |      |
-|   字元、字串(C-style)   |   [Week3-2 字元、字串(C-style)][tp-char]   | [Week3-1 字元與 C-Style 字串][hc-char] | [北區影片][tp-yt-char] [竹區影片][hc-yt-char] |
+|   一維陣列              |   [Week3-0 一維陣列][tp-array]     |  [Week3-0 1D陣列][hc-array]    |   [北區影片][tp-yt-array]   |
+|   字元、字串(C-style)   |   [Week3-1 字元、字串(C-style)][tp-char]   | [Week3-1 字元與 C-Style 字串][hc-char] | [北區影片][tp-yt-char] [竹區影片][hc-yt-char] |
 
 [tp-char]: https://slides.com/allen522019/20220305-59f8e3
 [tp-array]: https://hackmd.io/@ruby0322/ByNmbTSW5
 [hc-array]: https://docs.google.com/presentation/d/1o6CSHiaKQP96q6Id7nEKTbtEJS-bSh510DvtGwV5-Uo/edit?usp=sharing
 [hc-char]: https://docs.google.com/presentation/d/1SVWvpym1kdkrjrSVtvykE56zTl2Nuu0Fpj2W7lrZJC0/edit?usp=sharing
 [hc-yt-char]: https://youtu.be/-_xzNoC5vMI
+[tp-yt-array]: https://youtube.com/playlist?list=PLp5kjMAmhp-8aWUDsLCvW_Paw4vgYflGN
 [tp-yt-char]: https://youtu.be/XTsRLAzNBPM
 
 ## 第四週 03/26
