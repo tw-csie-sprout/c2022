@@ -40,7 +40,7 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|   一維陣列              |   [Week3-0 一維陣列][tp-array]     |  [Week3-0 1D陣列][hc-array]    |   [北區影片][tp-yt-array]   |
+|   一維陣列              |   [Week3-0 一維陣列][tp-array]     |  [Week3-0 1D陣列][hc-array]    |   [北區影片][tp-yt-array]  [竹區影片][hc-yt-array] |
 |   字元、字串(C-style)   |   [Week3-1 字元、字串(C-style)][tp-char]   | [Week3-1 字元與 C-Style 字串][hc-char] | [北區影片][tp-yt-char] [竹區影片][hc-yt-char] |
 
 [tp-char]: https://slides.com/allen522019/20220305-59f8e3
@@ -50,7 +50,7 @@
 [hc-yt-char]: https://youtu.be/-_xzNoC5vMI
 [tp-yt-array]: https://youtube.com/playlist?list=PLp5kjMAmhp-8aWUDsLCvW_Paw4vgYflGN
 [tp-yt-char]: https://youtu.be/XTsRLAzNBPM
-
+[hc-yt-array]: https://youtu.be/fRMzF3QJT7c
 ## 第四週 03/26
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
