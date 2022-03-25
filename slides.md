@@ -51,15 +51,18 @@
 [tp-yt-array]: https://youtube.com/playlist?list=PLp5kjMAmhp-8aWUDsLCvW_Paw4vgYflGN
 [tp-yt-char]: https://youtu.be/XTsRLAzNBPM
 [hc-yt-array]: https://youtu.be/fRMzF3QJT7c
+
 ## 第四週 03/26
-| 主題         | 北區                                      | 竹區 | 影片 |
-| ------------ | ----------------------------------------- | ---- | ---- |
-|  指標    | [Week4-0 指標][tp-pointer] | [Week4-0 指標][hc-pointer] |      |
-|      |      |      |      |
+| 主題          | 北區                                      | 竹區 | 影片 |
+| ------------- | ----------------------------------------- | ---- | ---- |
+|  指標         | [Week4-0 指標][tp-pointer]                |  [Week4-0 指標][hc-pointer]    |      |
+|  多維陣列     | [Week4-1 多維陣列][tp-ndarray]            |      |      |
+|  coding-style | [Week4-2 codingStyle][tp-codingStyle]     |      |      |
 
 [tp-pointer]: https://docs.google.com/presentation/d/1t2X0TlfyAenEx4lZnB00TZXb6j8ZxGix/edit?usp=sharing
+[tp-ndarray]: https://docs.google.com/presentation/d/1_26YcZyTXBylkJxu21UGIGFCtnIeTxiWE7yQerxOua8/edit?usp=sharing
+[tp-codingStyle]: https://docs.google.com/presentation/d/1_26YcZyTXBylkJxu21UGIGFCtnIeTxiWE7yQerxOua8/edit?usp=sharing
 [hc-pointer]: https://drive.google.com/file/d/1HsfDEaRWCaZwbV4yUeWuErXSniNebDv2/view?usp=sharing
-
 
 ## 第五週 04/02
 
