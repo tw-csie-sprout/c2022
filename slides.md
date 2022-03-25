@@ -54,10 +54,11 @@
 ## 第四週 03/26
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|  指標    | [Week4-0 指標][tp-pointer] |      |      |
+|  指標    | [Week4-0 指標][tp-pointer] | [Week4-0 指標][hc-pointer] |      |
 |      |      |      |      |
 
 [tp-pointer]: https://docs.google.com/presentation/d/1t2X0TlfyAenEx4lZnB00TZXb6j8ZxGix/edit?usp=sharing
+[hc-pointer]: https://drive.google.com/file/d/1HsfDEaRWCaZwbV4yUeWuErXSniNebDv2/view?usp=sharing
 
 
 ## 第五週 04/02
