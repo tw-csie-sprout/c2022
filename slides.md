@@ -56,13 +56,15 @@
 | 主題          | 北區                                      | 竹區 | 影片 |
 | ------------- | ----------------------------------------- | ---- | ---- |
 |  指標         | [Week4-0 指標][tp-pointer]                |  [Week4-0 指標][hc-pointer]    |      |
-|  多維陣列     | [Week4-1 多維陣列][tp-ndarray]            |      |      |
-|  coding-style | [Week4-2 codingStyle][tp-codingStyle]     |      |      |
+|  多維陣列     | [Week4-1 多維陣列][tp-ndarray]            |  [Week4-1 多維陣列][hc-ndarray]   |      |
+|  coding-style | [Week4-2 codingStyle][tp-codingStyle]     | [Week4-2 codingStyle][hc-codingStyle]     |      |
 
 [tp-pointer]: https://docs.google.com/presentation/d/1t2X0TlfyAenEx4lZnB00TZXb6j8ZxGix/edit?usp=sharing
 [tp-ndarray]: https://docs.google.com/presentation/d/1_26YcZyTXBylkJxu21UGIGFCtnIeTxiWE7yQerxOua8/edit?usp=sharing
 [tp-codingStyle]: https://docs.google.com/presentation/d/1_26YcZyTXBylkJxu21UGIGFCtnIeTxiWE7yQerxOua8/edit?usp=sharing
 [hc-pointer]: https://drive.google.com/file/d/1HsfDEaRWCaZwbV4yUeWuErXSniNebDv2/view?usp=sharing
+[hc-ndarray]: https://docs.google.com/presentation/d/10TgzWLwSlkfYy8w3L_xAMhqhQprnPrwi/edit#slide=id.p1
+[hc-codingStyle]: https://docs.google.com/presentation/d/1FJ0ddbDvuP01fRGjepT4aYvp8RYcPRMI/edit#slide=id.p2
 
 ## 第五週 04/02
 
