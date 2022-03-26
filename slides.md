@@ -56,7 +56,7 @@
 | 主題          | 北區                                      | 竹區 | 影片 |
 | ------------- | ----------------------------------------- | ---- | ---- |
 |  指標         | [Week4-0 指標][tp-pointer]                |  [Week4-0 指標][hc-pointer]    |      |
-|  多維陣列     | [Week4-1 多維陣列][tp-ndarray]            |  [Week4-1 多維陣列][hc-ndarray]   |      |
+|  多維陣列      | [Week4-1 多維陣列][tp-ndarray]            |  [Week4-1 多維陣列][hc-ndarray]   |      |
 |  coding-style | [Week4-2 codingStyle][tp-codingStyle]     | [Week4-2 codingStyle][hc-codingStyle]     |      |
 
 [tp-pointer]: https://docs.google.com/presentation/d/1t2X0TlfyAenEx4lZnB00TZXb6j8ZxGix/edit?usp=sharing
