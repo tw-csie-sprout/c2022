@@ -55,7 +55,7 @@
 ## 第四週 03/26
 | 主題          | 北區                                      | 竹區 | 影片 |
 | ------------- | ----------------------------------------- | ---- | ---- |
-|  指標         | [Week4-0 指標][tp-pointer]                |  [Week4-0 指標][hc-pointer]    | [竹區影片][hc-yt-pointer] |
+|  指標         | [Week4-0 指標][tp-pointer]                |  [Week4-0 指標][hc-pointer]    | [北區影片][tp-yt-pointer]  [竹區影片][hc-yt-pointer] |
 |  多維陣列      | [Week4-1 多維陣列][tp-ndarray]            |  [Week4-1 多維陣列][hc-ndarray]   |      |
 |  coding-style | [Week4-2 codingStyle][tp-codingStyle]     | [Week4-2 codingStyle][hc-codingStyle]     |      |
 
@@ -65,6 +65,7 @@
 [hc-pointer]: https://drive.google.com/file/d/1HsfDEaRWCaZwbV4yUeWuErXSniNebDv2/view?usp=sharing
 [hc-ndarray]: https://docs.google.com/presentation/d/10TgzWLwSlkfYy8w3L_xAMhqhQprnPrwi/edit#slide=id.p1
 [hc-codingStyle]: https://docs.google.com/presentation/d/1FJ0ddbDvuP01fRGjepT4aYvp8RYcPRMI/edit#slide=id.p2
+[tp-yt-pointer]: https://www.youtube.com/playlist?list=PLp5kjMAmhp---hMyJy_KOBkthy3DMUlsA
 [hc-yt-pointer]: https://www.youtube.com/watch?v=qGWv92nSN1o
 
 ## 第五週 04/02
