@@ -49,4 +49,4 @@
 [noej-1419]: https://neoj.sprout.tw/problem/1419/
 [noej-999]: https://neoj.sprout.tw/problem/999/
 [noej-8857]: https://neoj.sprout.tw/problem/8857/
-[noej-987]: https://neoj.sprout.tw/problem/987/
+[neoj-987]: https://neoj.sprout.tw/problem/987/
