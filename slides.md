@@ -56,8 +56,8 @@
 | 主題          | 北區                                      | 竹區 | 影片 |
 | ------------- | ----------------------------------------- | ---- | ---- |
 |  指標         | [Week4-0 指標][tp-pointer]                |  [Week4-0 指標][hc-pointer]    | [北區影片][tp-yt-pointer]  [竹區影片][hc-yt-pointer] |
-|  多維陣列      | [Week4-1 多維陣列][tp-ndarray]            |  [Week4-1 多維陣列][hc-ndarray]   |      |
-|  coding-style | [Week4-2 codingStyle][tp-codingStyle]     | [Week4-2 codingStyle][hc-codingStyle]     |      |
+|  多維陣列      | [Week4-1 多維陣列][tp-ndarray]            |  [Week4-1 多維陣列][hc-ndarray]   | [北區影片][tp-yt-ndarray]     |
+|  coding-style | [Week4-2 codingStyle][tp-codingStyle]     | [Week4-2 codingStyle][hc-codingStyle]     | [北區影片][tp-yt-ndarray]     |
 
 [tp-pointer]: https://docs.google.com/presentation/d/1t2X0TlfyAenEx4lZnB00TZXb6j8ZxGix/edit?usp=sharing
 [tp-ndarray]: https://docs.google.com/presentation/d/1_26YcZyTXBylkJxu21UGIGFCtnIeTxiWE7yQerxOua8/edit?usp=sharing
@@ -67,6 +67,7 @@
 [hc-codingStyle]: https://docs.google.com/presentation/d/1FJ0ddbDvuP01fRGjepT4aYvp8RYcPRMI/edit#slide=id.p2
 [tp-yt-pointer]: https://www.youtube.com/playlist?list=PLp5kjMAmhp---hMyJy_KOBkthy3DMUlsA
 [hc-yt-pointer]: https://www.youtube.com/watch?v=qGWv92nSN1o
+[tp-yt-ndarray]: https://www.youtube.com/playlist?list=PLp5kjMAmhp-_nMIe6OuiDxrDwMnFeylN9
 
 ## 第五週 04/02
 
