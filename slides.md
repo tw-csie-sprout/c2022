@@ -79,7 +79,7 @@
 
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
-|  函數    |   [Week6-1 函數(學員用)][tp-function]   | [Week6-0 函數][hc-function]     |      |
+|  函數    |   [Week6-0 函數(學員用)][tp-function]   | [Week6-0 函數][hc-function]     |      |
 |      |      |      |      |
 
 [tp-function]: https://docs.google.com/presentation/d/1ZXSOOMhsd3StJ5h3fX1vwWPLzzax_t0gbOTw_WYZO8w/edit?usp=sharing
