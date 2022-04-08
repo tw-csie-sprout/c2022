@@ -9,7 +9,7 @@
 | 0319 |  03  | [602 - 小蘋果][neoj-602] <br> [209 - σ．σ - 2015][neoj-209] <br> [217 - 凱薩密碼][neoj-217](不算分)  <br> [894 - 姓名縮寫][neoj-894] <br>     | [988 - Sproutle][neoj-988] <br> [953 - 維吉尼亞的統計學][neoj-953] |          | [北區影片][tp-review-video-w3] [北區簡報][tp-review-ppt-w3]<br>[竹區影片][hc-review-video-w3] [竹區簡報][hc-review-ppt-w3]     |
 | 0326 |  04  | [8857 - 指標陣列最大值無函數][noej-8857] <br> [1419 - 翻轉矩陣][noej-1419] <br> [999 - 螺旋矩陣][noej-999]        |  [938 - 3D迷宮][neoj-938] <br> [987 - 大十字][neoj-987]  |          |      |
 | 0402 |  05  | 清明節放假 |          |          |      |
-| 0409 |  06  |          |          |          |      |
+| 0409 |  06  | [225 - 3n+1 Problem (II)][neoj-225] <br> [226 - 成績統計][neoj-226] | [841 - 圈圈叉叉][neoj-841] <br> [4328 - 走自己的路][neoj-4328] |          |      |
 | 0416 |  07  |          |          |          |      |
 | 0423 |  08  |          |          |          |      |
 | 0430 |  09  | 第一階段檢定 |          |          |      |
@@ -54,3 +54,7 @@
 [hc-review-video-w3]: https://www.youtube.com/watch?v=hKmnQGukiIY
 [tp-review-ppt-w3]: https://slides.com/allen522019/20220319
 [tp-review-video-w3]: https://youtu.be/6StYAWTeCXA
+[neoj-225]: https://neoj.sprout.tw/problem/225/
+[neoj-226]: https://neoj.sprout.tw/problem/226/
+[neoj-841]: https://neoj.sprout.tw/problem/841/
+[neoj-4328]: https://neoj.sprout.tw/problem/4328/
