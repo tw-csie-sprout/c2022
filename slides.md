@@ -80,10 +80,13 @@
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
 |  函數    |   [Week6-0 函數(學員用)][tp-function]   | [Week6-0 函數][hc-function]     |      |
-|      |      |      |      |
+|  大作業一  |      |   [week6-1 大作業一][hc-project1]   |  [week6-1 大作業一 Windows Docker][hc-yt-project1-docker]<br>[week6-1 大作業一][hc-yt-project1]    |
 
 [tp-function]: https://docs.google.com/presentation/d/1ZXSOOMhsd3StJ5h3fX1vwWPLzzax_t0gbOTw_WYZO8w/edit?usp=sharing
 [hc-function]: https://drive.google.com/file/d/1hP9NC9pmK6iaktOQqH7X_Sma6UKIVze-/view
+[hc-project1]: https://slides.com/koios/sproutle
+[hc-yt-project1-docker]: https://www.youtube.com/watch?v=DoNDSCCGo18
+[hc-yt-project1]: https://www.youtube.com/watch?v=8GnH9hKGRV0
 
 ## 第七週 04/16
 
