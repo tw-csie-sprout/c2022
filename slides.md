@@ -79,7 +79,7 @@
 
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
-|  函數    |   [Week6-0 函數][tp-function]   | [Week6-0 函數][hc-function]     |  [北區影片][tp-yt-function]    |
+|  函數    |   [Week6-0 函數][tp-function]   | [Week6-0 函數][hc-function]     |  [北區影片][tp-yt-function]  [竹區影片][hc-yt-function]    |
 |  大作業一  |      |   [week6-1 大作業一][hc-project1]   |  [week6-1 大作業一 Windows Docker][hc-yt-project1-docker]<br>[week6-1 大作業一][hc-yt-project1]    |
 
 [tp-function]: https://docs.google.com/presentation/d/1jtIov-HfZxTZeSobrfZ9j0AkPWQbKpO3VA8QHMPihIk/edit?usp=sharing
@@ -88,6 +88,7 @@
 [hc-yt-project1-docker]: https://www.youtube.com/watch?v=DoNDSCCGo18
 [hc-yt-project1]: https://www.youtube.com/watch?v=8GnH9hKGRV0
 [tp-yt-function]: https://youtu.be/C-RmiqGOltg
+[hc-yt-function]: https://youtu.be/j5zeh4ManBY
 
 ## 第七週 04/16
 
