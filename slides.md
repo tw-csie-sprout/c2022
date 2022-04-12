@@ -95,7 +95,7 @@
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
 |      |      |      |      |
-|   C++小眉角   |      |   [Week7-1][hc-omega]   |      |
+|   C++小眉角   |      |   [Week7-1 亂數轉型][hc-omega]   |      |
 
 [hc-omega]: https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/S10N_gmE9
 
