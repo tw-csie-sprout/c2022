@@ -9,7 +9,7 @@
 | 0319 |  03  | [602 - 小蘋果][neoj-602] <br> [209 - σ．σ - 2015][neoj-209] <br> [217 - 凱薩密碼][neoj-217](不算分)  <br> [894 - 姓名縮寫][neoj-894] <br>     | [988 - Sproutle][neoj-988] <br> [953 - 維吉尼亞的統計學][neoj-953] |          | [北區影片][tp-review-video-w3] [北區簡報][tp-review-ppt-w3]<br>[竹區影片][hc-review-video-w3] [竹區簡報][hc-review-ppt-w3]     |
 | 0326 |  04  | [8857 - 指標陣列最大值無函數][noej-8857] <br> [1419 - 翻轉矩陣][noej-1419] <br> [999 - 螺旋矩陣][noej-999]        |  [938 - 3D迷宮][neoj-938] <br> [987 - 大十字][neoj-987]  |          | [北區影片][tp-review-video-w4] [北區簡報][tp-review-ppt-w4] <br> [竹區影片][hc-review-video-w4] [竹區簡報][hc-review-ppt-w4]      |
 | 0402 |  05  | 清明節放假 |          |          |      |
-| 0409 |  06  | [225 - 3n+1 Problem (II)][neoj-225] <br> [226 - 成績統計][neoj-226] | [461 - 娃娃魚的站位哲學][neoj-461] <br> [4328 - 走自己的路][neoj-4328] |          |      |
+| 0409 |  06  | [225 - 3n+1 Problem (II)][neoj-225] <br> [226 - 成績統計][neoj-226] | [461 - 娃娃魚的站位哲學][neoj-461] <br> [4328 - 走自己的路][neoj-4328] |          |   [竹區影片][hc-review-video-w5]    |
 | 0416 |  07  |          |          |          |      |
 | 0423 |  08  |          |          |          |      |
 | 0430 |  09  | 第一階段檢定 |          |          |      |
@@ -62,3 +62,4 @@
 [hc-review-video-w4]: https://www.youtube.com/watch?v=ailxX-fvMFw
 [tp-review-video-w4]: https://youtu.be/QtyJmfxBQj4
 [tp-review-ppt-w4]: https://hackmd.io/@ruby0322/Sy0pXT8mc
+[hc-review-video-w5]:https://youtu.be/L05omH4ghps
