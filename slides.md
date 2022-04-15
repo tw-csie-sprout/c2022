@@ -94,9 +94,10 @@
 
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
-|      |      |      |      |
+|  變數生命週期與修飾子   | [Week 7-0 變數生命週期與修飾子][tp-var]    |      |      |
 |   C++小眉角   |      |   [Week7-1 亂數轉型][hc-omega]   |      |
 
+[tp-var]: https://docs.google.com/presentation/d/1D8_mpLUgmfI0xbn9wsSRK5hYYVfFazfH/edit?usp=sharing&ouid=109092361545280832047&rtpof=true&sd=true
 [hc-omega]: https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/S10N_gmE9
 
 ## 第八週 04/23
