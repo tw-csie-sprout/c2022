@@ -10,7 +10,7 @@
 | 0326 |  04  | [8857 - 指標陣列最大值無函數][noej-8857] <br> [1419 - 翻轉矩陣][noej-1419] <br> [999 - 螺旋矩陣][noej-999]        |  [938 - 3D迷宮][neoj-938] <br> [987 - 大十字][neoj-987]  |          | [北區影片][tp-review-video-w4] [北區簡報][tp-review-ppt-w4] <br> [竹區影片][hc-review-video-w4] [竹區簡報][hc-review-ppt-w4]      |
 | 0402 |  05  | 清明節放假 |          |          |      |
 | 0409 |  06  | [225 - 3n+1 Problem (II)][neoj-225] <br> [226 - 成績統計][neoj-226] | [461 - 娃娃魚的站位哲學][neoj-461] <br> [4328 - 走自己的路][neoj-4328] |          |   [竹區影片][hc-review-video-w5][竹區簡報][hc-review-ppt-w5] <br> [北區影片][tp-review-video-w5][北區簡報][tp-review-ppt-w5]   |
-| 0416 |  07  |   [214 - 踩地雷][neoj-214] <br> [1024 - Estimating p_13 - p13][neoj-1024]      |  [570 - 你是自由的][neoj-570] <br> [2022 - Shh... Sprout Hacker!][neoj-2022]      |          |      |
+| 0416 |  07  |   [214 - 踩地雷][neoj-214] <br> [1024 - Estimating $p_13$ - $p_13$][neoj-1024]      |  [570 - 你是自由的][neoj-570] <br> [2022 - Shh... Sprout Hacker!][neoj-2022]      |          |      |
 | 0423 |  08  |          |          |          |      |
 | 0430 |  09  | 第一階段檢定 |          |          |      |
 | 0507 |  10  |          |          |          |      |
