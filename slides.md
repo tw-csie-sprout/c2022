@@ -102,7 +102,7 @@
 [hc-qualifier]: https://slides.com/yeiyang/qualifier-4e3988
 [tp-omega]: https://slides.com/jason-plainlog/c/fullscreen
 [hc-omega]: https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/S10N_gmE9
-[tp-yt-var]: https://www.youtube.com/watch?v=1VVWlsv_D9U
+[tp-yt-var]: https://youtu.be/1VVWlsv_D9U?t=1229
 
 ## 第八週 04/23
 | 主題     | 北區                       | 竹區 | 影片 |
