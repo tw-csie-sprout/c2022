@@ -112,11 +112,12 @@
 | -------- | -------------------------- | ---- | ---- |
 | 函數傳遞指標、結構、參考 | [Week8-0 函數呼叫與結構][tp-func-struct] | [Week8-0 函數呼叫與結構][hc-func-struct] |      |
 | 第一階段複習  |  [Week8-1 第一階段複習][tp-review]    |      |      |
+| 第一階段階段考注意事項 | | [Week8 第一次階段考注意事項][hc-1-stage-infor] | |
 
 [tp-review]: https://slides.com/jason-plainlog/p
 [tp-func-struct]: https://drive.google.com/file/d/1k5fmDtaoMWVj_ESjcDRBDusQtdbTHDD7/view?usp=sharing
 [hc-func-struct]: https://drive.google.com/file/d/1kaUPUZ8d0_LxkJ95TGE-F3tKFYA49svv/view?usp=sharing
-
+[hc-1-stage-infor]: https://docs.google.com/presentation/d/1UJoJH47q5-xhEynEmV0baDyQ0eO9ahyvPguxFWUDVtY/edit?usp=sharing
 ## 第九週 04/30
 
 | 主題           | 北區 | 竹區 | 影片 |
