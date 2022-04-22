@@ -11,7 +11,7 @@
 | 0402 |  05  | 清明節放假 |          |          |      |
 | 0409 |  06  | [225 - 3n+1 Problem (II)][neoj-225] <br> [226 - 成績統計][neoj-226] | [461 - 娃娃魚的站位哲學][neoj-461] <br> [4328 - 走自己的路][neoj-4328] |          |   [竹區影片][hc-review-video-w5][竹區簡報][hc-review-ppt-w5] <br> [北區影片][tp-review-video-w5][北區簡報][tp-review-ppt-w5]   |
 | 0416 |  07  |   [214 - 踩地雷][neoj-214] <br> [1024 - Estimating p13 - p13][neoj-1024]      |  [570 - 你是自由的][neoj-570] <br> [2022 - Shh... Sprout Hacker!][neoj-2022]      |          |      |
-| 0423 |  08  |          |          |          |      |
+| 0423 |  08  | [1064 - 指標陣列最大值][neoj-1064] <br> [895 - 成績統計II][neoj-895] | [991 - Sprouty Mart][neoj-991] <br> [573 - 小普刷油漆][neoj-573] |          |      |
 | 0430 |  09  | 第一階段檢定 |          |          |      |
 | 0507 |  10  |          |          |          |      |
 | 0514 |  11  |          |          |          |      |
@@ -70,3 +70,7 @@
 [tp-review-video-w5]:https://youtu.be/1VVWlsv_D9U?t=555
 [neoj-1024]:https://neoj.sprout.tw/problem/1024/
 [neoj-2022]:https://neoj.sprout.tw/problem/2022/
+[neoj-1064]:https://neoj.sprout.tw/problem/1064/
+[neoj-895]:https://neoj.sprout.tw/problem/895/
+[neoj-991]:https://neoj.sprout.tw/problem/991/
+[neoj-573]:https://neoj.sprout.tw/problem/573/
