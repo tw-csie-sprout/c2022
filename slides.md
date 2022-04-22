@@ -106,12 +106,13 @@
 [tp-yt-omega]: https://youtu.be/cHQJq7WPicg
 [hc-yt-omega]: https://www.youtube.com/watch?v=P7iYVmpSL84
 [hc-yt-var]: https://www.youtube.com/watch?v=eKF2A4xA-Sc
+
 ## 第八週 04/23
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
 |      |      |      |      |
-|      |      |      |      |
-
+| 第一階段複習  |  [Week8-1 第一階段複習][tp-review]    |      |      |
+[tp-review]: https://slides.com/jason-plainlog/p
 
 
 ## 第九週 04/30
