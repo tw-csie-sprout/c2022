@@ -14,16 +14,16 @@
 | 0409 |  06  | 公佈 | 編寫函數、函數呼叫、大作業一 |
 | 0416 |  07  |            | 變數生命週期、修飾子 (const, static, long, short)、轉型、亂數 |
 | 0423 |  08  |            | 函數傳遞指標、結構(struct)、參考 (reference)、課程複習 |
-| 0430 |  09  | <font color="#f00">大作業繳交期限</font> | 第一階段檢定考試                                   |
+| 0430 |  09  | <font color="#f00">繳交期限</font> | 第一階段檢定考試                                   |
 
 ## 第二階段
 | 日期 | 週次 | 大作業二                           | 主題                                                        |
 | :--: | :--: | :--------------------------------- | ----------------------------------------------------------- |
-| 0507 |  10  |                                    | 標頭檔、template、C++ string、C++ file/string stream        |
-| 0514 |  11  |                                    | class、new/delete、動態陣列                                 |
-| 0521 |  12  | 公布                               | STL (資料結構, pair, tuple, vector, queue, stack, iterator) |
-| 0528 |  13  |                                    | 複雜度、基礎排序、遞迴一                                    |
-| 0604 |  14  |                                    | <font color="#f00">因端午節連假，故本週放假 </font>         |
-| 0611 |  15  |                                    | 遞迴二、實用 library function                               |
-| 0618 |  16  |                                    | 彈性時間、展望與回顧、檢討大作業二                          |
-| 0625 |  17  | <font color="#f00">繳交期限</font> | 第二階段檢定考試                                            |
+| 0514 |  10  |                                    | 標頭檔、template、C++ string、C++ file/string stream        |
+| 0521 |  11  |                                    | class、new/delete、動態陣列                                 |
+| 0528 |  12  | 公布                               | STL (資料結構, pair, tuple, vector, queue, stack, iterator) |
+| 0604 |  13  |                                    | 複雜度、基礎排序、遞迴一                                    |
+| 0611 |  14  |                                    | <font color="#f00">因端午節連假，故本週放假 </font>         |
+| 0618 |  15  |                                    | 遞迴二、實用 library function                               |
+| 0625 |  16  |                                    | 彈性時間、展望與回顧、檢討大作業二                          |
+| 0702 |  17  | <font color="#f00">繳交期限</font> | 第二階段檢定考試                                            |
