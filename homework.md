@@ -11,7 +11,7 @@
 | 0402 |  05  | 清明節放假 |          |          |      |
 | 0409 |  06  | [225 - 3n+1 Problem (II)][neoj-225] <br> [226 - 成績統計][neoj-226] | [461 - 娃娃魚的站位哲學][neoj-461] <br> [4328 - 走自己的路][neoj-4328] |          |   [竹區影片][hc-review-video-w5][竹區簡報][hc-review-ppt-w5] <br> [北區影片][tp-review-video-w5][北區簡報][tp-review-ppt-w5]   |
 | 0416 |  07  |   [214 - 踩地雷][neoj-214] <br> [1024 - Estimating p13 - p13][neoj-1024]      |  [570 - 你是自由的][neoj-570] <br> [2022 - Shh... Sprout Hacker!][neoj-2022]      |          | [北區影片][tp-review-video-w7][北區簡報][tp-review-ppt-w7]  <br>[竹區影片][hc-review-video-w7][竹區簡報][hc-review-ppt-w7] |
-| 0423 |  08  | [1064 - 指標陣列最大值][neoj-1064] <br> [895 - 成績統計II][neoj-895] | [991 - Sprouty Mart][neoj-991] <br> [573 - 小普刷油漆][neoj-573] |          |      |
+| 0423 |  08  | [1064 - 指標陣列最大值][neoj-1064] <br> [895 - 成績統計II][neoj-895] | [991 - Sprouty Mart][neoj-991] <br> [573 - 小普刷油漆][neoj-573] |      |     <br>[竹區簡報][hc-review-ppt-w8]     |
 | 0430 |  09  | 第一階段檢定 |          |          |      |
 | 0514 |  10  |          |          |          |      |
 | 0521 |  11  |          |          |          |      |
@@ -78,3 +78,4 @@
 [tp-review-ppt-w7]:https://docs.google.com/presentation/d/114dB9LjIDtg8txxyUVAkTBfx5zbGQy7N/edit?usp=sharing
 [hc-review-video-w7]:https://youtu.be/yHjXgiXW5Bk
 [hc-review-ppt-w7]:https://docs.google.com/presentation/d/1Bc0FFqOkKCkp8AkpmQpMV_j9UigDf0qm8fjFhhXGmmU/edit?usp=sharing
+[hc-review-ppt-w8]:https://docs.google.com/presentation/d/1VaThEtDQ2V_trh5Xnp1YFgZe6CgOsbqXAlaLOOUQ8X8/edit?usp=sharing
