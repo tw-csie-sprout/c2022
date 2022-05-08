@@ -22,8 +22,8 @@
 | 0514 |  10  |                                    | 標頭檔、template、C++ string、C++ file/string stream        |
 | 0521 |  11  |                                    | class、new/delete、動態陣列                                 |
 | 0528 |  12  | 公布                               | STL (資料結構, pair, tuple, vector, queue, stack, iterator) |
-| 0604 |  13  |                                    | 複雜度、基礎排序、遞迴一                                    |
-| 0611 |  14  |                                    | <font color="#f00">因端午節連假，故本週放假 </font>         |
+| 0604 |  13  |                                    |     <font color="#f00">因端午節連假，故本週放假 </font>                               |
+| 0611 |  14  |                                    |       複雜度、基礎排序、遞迴一    |
 | 0618 |  15  |                                    | 遞迴二、實用 library function                               |
 | 0625 |  16  |                                    | 彈性時間、展望與回顧、檢討大作業二                          |
 | 0702 |  17  | <font color="#f00">繳交期限</font> | 第二階段檢定考試                                            |
