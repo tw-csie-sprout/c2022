@@ -13,8 +13,7 @@
 | 0416 |  07  |   [214 - 踩地雷][neoj-214] <br> [1024 - Estimating p13 - p13][neoj-1024]      |  [570 - 你是自由的][neoj-570] <br> [2022 - Shh... Sprout Hacker!][neoj-2022]      |          | [北區影片][tp-review-video-w7][北區簡報][tp-review-ppt-w7]  <br>[竹區影片][hc-review-video-w7][竹區簡報][hc-review-ppt-w7] |
 | 0423 |  08  | [1064 - 指標陣列最大值][neoj-1064] <br> [895 - 成績統計II][neoj-895] | [991 - Sprouty Mart][neoj-991] <br> [573 - 小普刷油漆][neoj-573] |      |     <br>[竹區簡報][hc-review-ppt-w8]  [北區簡報][tp-review-ppt-w8]   |
 | 0430 |  09  | 第一階段檢定 |          |          |      |
-| 0514 |  10  |[441 - 禮貌校園
-][neoj-441] [442 - 向量加法][neoj-442]          | [neoj-2334]         |          |      |
+| 0514 |  10  |[441 - 禮貌校園][neoj-441] [442 - 向量加法][neoj-442]          | [neoj-2334]         |          |      |
 | 0521 |  11  |          |          |          |      |
 | 0528 |  12  |          |          |          |      |
 | 0604 |  13  |          |          |          |      |
