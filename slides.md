@@ -129,10 +129,11 @@
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
 | 標頭檔、Template  | [Week10-0][tp-headerfile] [Week10-1][tp-template]  |      |      |
-|      |      | |  |
+|   C++ string、FileIO   | [Week10-2 C++ string & FileIO][tp-cxxstring-fileio]     | |  |
 
 [tp-headerfile]: https://tw-csie-sprout.github.io/c2022/slides/headerfile/#/
 [tp-template]: https://tw-csie-sprout.github.io/c2022/slides/template/#/
+[tp-cxxstring-fileio]: https://hackmd.io/@ruby0322/ByFsHGtLc#/
 
 ## 第十一週 05/21
 | 主題     | 北區                       | 竹區 | 影片 |
