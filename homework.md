@@ -14,7 +14,7 @@
 | 0423 |  08  | [1064 - 指標陣列最大值][neoj-1064] <br> [895 - 成績統計II][neoj-895] | [991 - Sprouty Mart][neoj-991] <br> [573 - 小普刷油漆][neoj-573] |      |     <br>[竹區簡報][hc-review-ppt-w8]  [北區簡報][tp-review-ppt-w8]   |
 | 0430 |  09  | 第一階段檢定 |          |          |      |
 | 0514 |  10  |[441 - 禮貌校園][neoj-441]<br>[442 - 向量加法][neoj-442]          | [2334 - 字串處理][neoj-2334] <br> [621 - 芽芽寶典][neoj-621]        |          | <br>[竹區影片][hc-review-video-w10] [竹區簡報][hc-review-ppt-w10]  |
-| 0521 |  11  |          |          |          |      |
+| 0521 |  11  | [1146 - Just like stack][neoj-1146]         |          |          |      |
 | 0528 |  12  |          |          |          |      |
 | 0604 |  13  |          |          |          |      |
 | 0611 |  14  | 端午節放假 |          |          |      |
@@ -86,3 +86,4 @@
 [neoj-621]: https://neoj.sprout.tw/problem/621/
 [hc-review-ppt-w10]:https://drive.google.com/file/d/1PvEudGj7irrzhEqL2rxM-bKJLptaSzgU/view?usp=sharing
 [hc-review-video-w10]:https://youtu.be/w7ilGdjTu8I
+[neoj-1146]: https://neoj.sprout.tw/problem/1146/
