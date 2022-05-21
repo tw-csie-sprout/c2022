@@ -140,9 +140,10 @@
 ## 第十一週 05/21
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
-|   class、new/delete、動態陣列   |      |  [week11 class、new/delete、動態陣列][hc-class、new/delete、動態陣列]    |      |
+|   class、new/delete、動態陣列   |  [week 11 dynamic arrays][tp-dynamic-array]    |  [week11 class、new/delete、動態陣列][hc-class、new/delete、動態陣列]    |      |
 |      |      |      |      |
 
+[tp-dynamic-array]:https://slides.com/jt94/sprout-2022-dynamic-arrays
 [hc-class、new/delete、動態陣列]:https://slides.com/yeiyang/classandnewdelete
 
 ## 第十二週 05/28
