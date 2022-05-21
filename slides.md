@@ -128,7 +128,7 @@
 ## 第十週 05/14
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
-| 標頭檔、Template  | [Week10-0][tp-headerfile] [Week10-1][tp-template]  |  [Week10 Header Files & Templates][hc-hf-tp]    | [北區影片1][tp-ht-yt] [北區影片][tp-hf-tp-yt]    |
+| 標頭檔、Template  | [Week10-0][tp-headerfile] [Week10-1][tp-template]  |  [Week10 Header Files & Templates][hc-hf-tp]    | [北區影片1][tp-ht-yt] [竹區影片][hc-hf-tp-yt]    |
 |   C++ string、FileIO   | [Week10-2 C++ string & FileIO][tp-cxxstring-fileio]     | [Week10-2 C++ string & FileIO][hc-cxxstring-fileio]|  |
 
 [tp-headerfile]: https://tw-csie-sprout.github.io/c2022/slides/headerfile/#/
