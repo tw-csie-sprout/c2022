@@ -129,7 +129,7 @@
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
 | 標頭檔、Template  | [Week10-0][tp-headerfile] [Week10-1][tp-template]  |  [Week10 Header Files & Templates][hc-hf-tp]    | [北區影片1][tp-ht-yt] [竹區影片][hc-hf-tp-yt]    |
-|   C++ string、FileIO   | [Week10-2 C++ string & FileIO][tp-cxxstring-fileio]     | [Week10-2 C++ string & FileIO][hc-cxxstring-fileio]|  |
+|   C++ string、FileIO   | [Week10-2 C++ string & FileIO][tp-cxxstring-fileio]     | [Week10-2 C++ string & FileIO][hc-cxxstring-fileio]|  | [北區影片][tp-str-yt] [竹區影片][hc-str-yt]
 
 [tp-headerfile]: https://tw-csie-sprout.github.io/c2022/slides/headerfile/#/
 [tp-template]: https://tw-csie-sprout.github.io/c2022/slides/template/#/
@@ -138,6 +138,8 @@
 [tp-ht-yt]: https://youtu.be/EUedVp16F54
 [hc-hf-tp]: https://slides.com/koios/week10-header-file-template
 [hc-hf-tp-yt]: https://www.youtube.com/watch?v=h5Gl46ViLkU
+[hc-str-yt]: https://www.youtube.com/watch?v=bc0Oq4Xg-PI
+[tp-str-yt]: https://www.youtube.com/watch?v=FDTxZpRTp8A
 
 ## 第十一週 05/21
 | 主題     | 北區                       | 竹區 | 影片 |
