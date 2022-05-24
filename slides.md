@@ -154,9 +154,10 @@
 ## 第十二週 05/28
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
-|      |      |      |      |
+|      |      |   [week11 STL][hc-STL]   |      |
 |      |      |      |      |
 
+[hc-STL]:https://docs.google.com/presentation/d/17gvMrWnxOlrunoFmfJRTLkL0Sjh4Zi8V6pAMoXamEqY/edit#slide=id.p
 
 
 ## 第十三週 06/04
