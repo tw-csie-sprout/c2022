@@ -155,11 +155,13 @@
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
 |   STL   |  [week12 STL][tp-STL]    |   [week12 STL][hc-STL]   |      |
-|   大作業二   |   [week12 大作業二][project2]   |   [week12 大作業二][project2]   |      |
+|   大作業二   |   [week12 大作業二][project2]   |   [week12 大作業二][project2]   |   [北區影片][tp-proj2-yt] [竹區影片][hc-proj2-yt]   |
 
 [hc-STL]:https://docs.google.com/presentation/d/17gvMrWnxOlrunoFmfJRTLkL0Sjh4Zi8V6pAMoXamEqY/edit#slide=id.p
 [tp-STL]:https://docs.google.com/presentation/d/1Ak-VY1yU7GKdTe9vf9QYmqHT0bsPc-ljPRzt5a0YvlE/edit?usp=sharing
 [project2]:https://slides.com/allen522019/20220319-c87764
+[tp-proj2-yt]:https://youtu.be/sQWKWPVpp0A
+[hs-proj2-yt]:https://youtu.be/A4MZljyXCW4
 
 ## 第十三週 06/04
 | 主題     |      |      |      |
