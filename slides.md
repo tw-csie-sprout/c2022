@@ -161,7 +161,7 @@
 [tp-STL]:https://docs.google.com/presentation/d/1Ak-VY1yU7GKdTe9vf9QYmqHT0bsPc-ljPRzt5a0YvlE/edit?usp=sharing
 [project2]:https://slides.com/allen522019/20220319-c87764
 [tp-proj2-yt]:https://youtu.be/sQWKWPVpp0A
-[hs-proj2-yt]:https://youtu.be/A4MZljyXCW4
+[hc-proj2-yt]:https://youtu.be/A4MZljyXCW4
 
 ## 第十三週 06/04
 | 主題     |      |      |      |
