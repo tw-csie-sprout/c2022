@@ -170,7 +170,7 @@
 | 複雜度、排序 |      |   [Week13 複雜度][hc-complexity]<br>[Week13 排序][hc-sort]   |      |
 | 遞迴     | [Week13 遞迴][tp-recursion]      |      |      |
 
-[hc-complexity]:https://hackmd.io/@polarz/ByDQVJXO_#/35
+[hc-complexity]:https://hackmd.io/@polarz/ByDQVJXO_#/
 [hc-sort]:https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/SJhiPO0vd#/
 [tp-recursion]:https://docs.google.com/presentation/d/1hipr7O51_CpeDr40ugzR3olwCV_-xhwH/edit#slide=id.p1
 
