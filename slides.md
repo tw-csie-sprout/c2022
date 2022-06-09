@@ -165,12 +165,13 @@
 [tp-stl-yt]:https://www.youtube.com/watch?v=Y2mhQVp0o60
 
 ## 第十三週 06/04
-| 主題     |      |      |      |
+| 主題     |   北區   |  竹區    |      |
 | -------- | -------------------------- | ---- | ---- |
-|  |      |      |      |
+| 複雜度、排序 |      |   [Week13 複雜度][hc-complexity]<br>[Week13 排序][hc-sort]   |      |
 |      |      |      |      |
 
-
+[hc-complexity]:https://hackmd.io/@polarz/ByDQVJXO_#/35
+[hc-sort]:https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/SJhiPO0vd#/
 
 ## 第十四週 06/11
 
