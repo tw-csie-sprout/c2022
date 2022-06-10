@@ -171,8 +171,8 @@
 
 | 主題     |   北區   |  竹區    |      |
 | -------- | -------------------------- | ---- | ---- |
-| 複雜度、排序 |      |   [Week13 複雜度][hc-complexity]<br>[Week13 排序][hc-sort]   |      |
-| 遞迴     | [Week13 遞迴][tp-recursion]      | [Week13 遞迴][hc-recursion] |      |
+| 複雜度、排序 |      |   [Week14 複雜度][hc-complexity]<br>[Week14 排序][hc-sort]   |      |
+| 遞迴     | [Week14 遞迴][tp-recursion]      | [Week14 遞迴][hc-recursion] |      |
 
 [hc-complexity]:https://hackmd.io/@polarz/ByDQVJXO_#/
 [hc-sort]:https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/SJhiPO0vd#/
