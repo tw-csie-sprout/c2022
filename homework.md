@@ -17,7 +17,7 @@
 | 0521 |  11  | [1146 - Just like stack][neoj-1146]         |          |          |      |
 | 0528 |  12  |     [36 - stack 練習][neoj-36]<br>[37 - queue 練習][neoj-37]     |     [531 - 排隊停車][neoj-531]<br>[5857 - 整數四則運算機][neoj-5857]     |          |      |
 | 0604 |  13  |  端午節放假 |          |          |      |
-| 0611 |  14  | [369 - 書瑾與他的泡泡們][neoj-369] |          |          |      |
+| 0611 |  14  | [369 - 書瑾與他的泡泡們][neoj-369] |  [2024 - 無聊的小明][neoj-2024] <br> [448 - 麻將排序問題][neoj-448] |          |      |
 | 0618 |  15  |          |          |          ||
 | 0625 | 16 | | | ||
 | 0702 | 17 | 第二階段檢定 | | ||
@@ -92,3 +92,5 @@
 [neoj-531]:https://neoj.sprout.tw/problem/531/
 [neoj-5857]:https://neoj.sprout.tw/problem/5857/
 [neoj-369]:https://neoj.sprout.tw/problem/369/
+[neoj-2024]:https://neoj.sprout.tw/problem/2024/
+[neoj-448]:https://neoj.sprout.tw/problem/448/
