@@ -165,6 +165,10 @@
 [tp-stl-yt]:https://www.youtube.com/watch?v=Y2mhQVp0o60
 
 ## 第十三週 06/04
+**端午節放假**
+
+## 第十四週 06/11
+
 | 主題     |   北區   |  竹區    |      |
 | -------- | -------------------------- | ---- | ---- |
 | 複雜度、排序 |      |   [Week13 複雜度][hc-complexity]<br>[Week13 排序][hc-sort]   |      |
@@ -174,11 +178,6 @@
 [hc-sort]:https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/SJhiPO0vd#/
 [tp-recursion]:https://docs.google.com/presentation/d/1hipr7O51_CpeDr40ugzR3olwCV_-xhwH/edit#slide=id.p1
 
-## 第十四週 06/11
-
-| 主題       | 北區 | 竹區 | 影片 |
-| ---------- | ---- | ---- | ---- |
-| 端午節放假 |      |      |      |
 
 ## 第十五週 06/18
 | 主題     | 北區                       | 竹區 | 影片 |
