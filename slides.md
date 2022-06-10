@@ -172,11 +172,12 @@
 | 主題     |   北區   |  竹區    |      |
 | -------- | -------------------------- | ---- | ---- |
 | 複雜度、排序 |      |   [Week13 複雜度][hc-complexity]<br>[Week13 排序][hc-sort]   |      |
-| 遞迴     | [Week13 遞迴][tp-recursion]      |      |      |
+| 遞迴     | [Week13 遞迴][tp-recursion]      | [Week13 遞迴][hc-recursion] |      |
 
 [hc-complexity]:https://hackmd.io/@polarz/ByDQVJXO_#/
 [hc-sort]:https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/SJhiPO0vd#/
 [tp-recursion]:https://docs.google.com/presentation/d/1hipr7O51_CpeDr40ugzR3olwCV_-xhwH/edit#slide=id.p1
+[hc-recursion]:https://docs.google.com/presentation/d/1rU0dQNtPKgFeJ1DfDaRD3GIBlgNt4xTexkmwXZHiCuc/edit?usp=sharing
 
 
 ## 第十五週 06/18
