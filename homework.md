@@ -15,7 +15,7 @@
 | 0430 |  09  | 第一階段檢定 |          |          |      |
 | 0514 |  10  |[441 - 禮貌校園][neoj-441]<br>[442 - 向量加法][neoj-442]          | [2334 - 字串處理][neoj-2334] <br> [621 - 芽芽寶典][neoj-621]        |          | <br>[竹區影片][hc-review-video-w10] [竹區簡報][hc-review-ppt-w10]  |
 | 0521 |  11  | [1146 - Just like stack][neoj-1146]         |          |          |      |
-| 0528 |  12  |     [36 - stack 練習][neoj-36]<br>[37 - queue 練習][neoj-37]     |     [531 - 排隊停車][neoj-531]<br>[5857 - 整數四則運算機][neoj-5857]     |          | <br>[竹區影片][hc-review-video-w12] [竹區簡報][hc-review-ppt-w12]     |
+| 0528 |  12  |     [36 - stack 練習][neoj-36]<br>[37 - queue 練習][neoj-37]     |     [531 - 排隊停車][neoj-531]<br>[5857 - 整數四則運算機][neoj-5857]     |          | [北區簡報][tp-review-ppt-w12]<br>[竹區影片][hc-review-video-w12] [竹區簡報][hc-review-ppt-w12]     |
 | 0604 |  13  |  端午節放假 |          |          |      |
 | 0611 |  14  | [369 - 書瑾與他的泡泡們][neoj-369] |  [2024 - 無聊的小明][neoj-2024] <br> [448 - 麻將排序問題][neoj-448] |          |      |
 | 0618 |  15  |          |          |          ||
@@ -96,3 +96,4 @@
 [neoj-448]:https://neoj.sprout.tw/problem/448/
 [hc-review-ppt-w12]:https://drive.google.com/file/d/1fEAh6TjzPJKjkWaw_kZidjq80r5RfqA1/view?usp=sharing
 [hc-review-video-w12]:https://youtu.be/k0HLpdyTnSM
+[tp-review-ppt-w12]:https://hackmd.io/HfcJz7TNSRGVaJ7PTsegWA
