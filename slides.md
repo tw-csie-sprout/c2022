@@ -171,14 +171,14 @@
 
 | 主題     |   北區   |  竹區    |      |
 | -------- | -------------------------- | ---- | ---- |
-| 複雜度、排序 |      |   [Week14 複雜度][hc-complexity]<br>[Week14 排序][hc-sort]   |      |
+| 複雜度、排序 | [Week14 複雜度與排序][] |   [Week14 複雜度][hc-complexity]<br>[Week14 排序][hc-sort]   |      |
 | 遞迴     | [Week14 遞迴][tp-recursion]      | [Week14 遞迴][hc-recursion] |      |
 
 [hc-complexity]:https://hackmd.io/@polarz/ByDQVJXO_#/
 [hc-sort]:https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/SJhiPO0vd#/
 [tp-recursion]:https://docs.google.com/presentation/d/1hipr7O51_CpeDr40ugzR3olwCV_-xhwH/edit#slide=id.p1
 [hc-recursion]:https://docs.google.com/presentation/d/1rU0dQNtPKgFeJ1DfDaRD3GIBlgNt4xTexkmwXZHiCuc/edit?usp=sharing
-
+[tp-complexity]:https://drive.google.com/file/d/1lTguVPebpwnakfwSr6eeYRc4d3kBoyDI/view?usp=sharing
 
 ## 第十五週 06/18
 | 主題     | 北區                       | 竹區 | 影片 |
