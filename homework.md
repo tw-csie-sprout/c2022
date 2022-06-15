@@ -19,7 +19,7 @@
 | 0604 |  13  |  端午節放假 |          |          |      |
 | 0611 |  14  | [369 - 書瑾與他的泡泡們][neoj-369] |  [2024 - 無聊的小明][neoj-2024] <br> [448 - 麻將排序問題][neoj-448] |          |      |
 | 0618 |  15  |          |          |          ||
-| 0625 | 16 | | | ||
+| 0625 | 16 | | [957 - 火車觀景台][neoj-957] | ||
 | 0702 | 17 | 第二階段檢定 | | ||
 
 [neoj-287]: https://neoj.sprout.tw/problem/287/
@@ -98,3 +98,4 @@
 [hc-review-video-w12]:https://youtu.be/k0HLpdyTnSM
 [tp-review-ppt-w12]:https://hackmd.io/HfcJz7TNSRGVaJ7PTsegWA
 [tp-review-video-w12]:https://youtu.be/-R0UZZ9nZ8M
+[neoj-957]:https://neoj.sprout.tw/problem/957/
