@@ -171,8 +171,8 @@
 
 | 主題     |   北區   |  竹區    | 影片 |
 | -------- | -------------------------- | ---- | ---- |
-| 複雜度、排序 | [Week14 複雜度與排序][tp-complexity] |   [Week14 複雜度][hc-complexity]<br>[Week14 排序][hc-sort]   |      |
-| 遞迴     | [Week14 遞迴][tp-recursion]      | [Week14 遞迴][hc-recursion] | [北區影片][tp-rec-yt]     |
+| 複雜度、排序 | [Week14 複雜度與排序][tp-complexity] |   [Week14 複雜度][hc-complexity]<br>[Week14 排序][hc-sort]   |   [北區影片][tp-complexity-yt]<br>[竹區影片][hc-complexity-yt]   |
+| 遞迴     | [Week14 遞迴][tp-recursion]      | [Week14 遞迴][hc-recursion] | [北區影片][tp-rec-yt]<br>[竹區影片][hc-rec-yt]     |
 
 [hc-complexity]:https://hackmd.io/@polarz/ByDQVJXO_#/
 [hc-sort]:https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/SJhiPO0vd#/
@@ -180,6 +180,9 @@
 [hc-recursion]:https://docs.google.com/presentation/d/1rU0dQNtPKgFeJ1DfDaRD3GIBlgNt4xTexkmwXZHiCuc/edit?usp=sharing
 [tp-complexity]:https://drive.google.com/file/d/1lTguVPebpwnakfwSr6eeYRc4d3kBoyDI/view?usp=sharing
 [tp-rec-yt]:https://youtu.be/XcsedoaQjds
+[tp-complexity-yt]:https://youtu.be/gz3d76jD5Tg
+[hc-rec-yt]:https://youtu.be/gtBjSAkLgSM
+[hc-complexity-yt]:https://youtu.be/x2_4oUdi1UM
 
 ## 第十五週 06/18
 | 主題     | 北區                       | 竹區 | 影片 |
