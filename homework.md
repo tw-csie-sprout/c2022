@@ -18,7 +18,7 @@
 | 0528 |  12  |     [36 - stack 練習][neoj-36]<br>[37 - queue 練習][neoj-37]     |     [531 - 排隊停車][neoj-531]<br>[5857 - 整數四則運算機][neoj-5857]     |          | [北區簡報][tp-review-ppt-w12] [北區影片][tp-review-video-w12]<br>[竹區影片][hc-review-video-w12] [竹區簡報][hc-review-ppt-w12]     |
 | 0604 |  13  |  端午節放假 |          |          |      |
 | 0611 |  14  | [369 - 書瑾與他的泡泡們][neoj-369] |  [2024 - 無聊的小明][neoj-2024] <br> [448 - 麻將排序問題][neoj-448] |          |      |
-| 0618 |  15  |          |          |          ||
+| 0618 |  15  |          |     [140-円円送禮物][neoj-140]     |          ||
 | 0625 | 16 | | [957 - 火車觀景台][neoj-957] | ||
 | 0702 | 17 | 第二階段檢定 | | ||
 
@@ -31,6 +31,7 @@
 [neoj-801]: https://neoj.sprout.tw/problem/801/
 [neoj-893]: https://neoj.sprout.tw/problem/893/
 [neoj-894]: https://neoj.sprout.tw/problem/894/
+[neoj-140]: https://neoj.sprout.tw/problem/140/
 [bc-more-loops]: https://drive.google.com/file/d/1hXlB3o7puvLzhU_6_VLqEVJLUm7YSgFq/view?usp=sharing
 [tp-review-video-w1]: https://youtu.be/VcFxLLyz2z8
 [hc-review-ppt-w1]: https://docs.google.com/presentation/d/1qFh5DwSikROY4qvMnuAPxVOUnu9jzbgvhEq-PcziAIA/edit#slide=id.g119b8cc9bd9_2_223 
