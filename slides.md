@@ -181,6 +181,8 @@
 [tp-complexity]:https://drive.google.com/file/d/1lTguVPebpwnakfwSr6eeYRc4d3kBoyDI/view?usp=sharing
 [tp-rec-yt]:https://youtu.be/XcsedoaQjds
 [tp-complexity-yt]:https://youtu.be/gz3d76jD5Tg
+[tp-complexity-new-yt]:https://www.youtube.com/watch?v=Wa3KRZmCkq4
+
 [hc-rec-yt]:https://youtu.be/gtBjSAkLgSM
 [hc-complexity-yt]:https://youtu.be/x2_4oUdi1UM
 
