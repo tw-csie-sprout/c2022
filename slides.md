@@ -189,10 +189,11 @@
 ## 第十五週 06/18
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
-|      |      |      |      |
-|   好用function   |      |   [Weeek 15 好用function][hc-goodfunction]   |      |
+| 遞迴二 |      |  [Week15 遞迴二][hc-recursion2]    |      |
+|   好用function   |      |   [Week15 好用function][hc-goodfunction]   |      |
 
 [hc-goodfunction]:https://hackmd.io/IljBYA_lQxudXNzWnTuhsA?view
+[hc-recursion2]:https://drive.google.com/file/d/18bHrqTBEqp08prJnToIUlgj2xrxY8HnA/view?usp=sharing
 
 ## 第十六週 06/25
 
