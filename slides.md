@@ -190,9 +190,9 @@
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
 |      |      |      |      |
-|      |      |      |      |
+|   好用function   |      |   [Weeek 15 好用function][hc-goodfunction]   |      |
 
-
+[hc-goodfunction]:https://hackmd.io/IljBYA_lQxudXNzWnTuhsA?view
 
 ## 第十六週 06/25
 
