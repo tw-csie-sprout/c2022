@@ -17,7 +17,7 @@
 | 0521 |  11  | [1146 - Just like stack][neoj-1146]         |          |          |      |
 | 0528 |  12  |     [36 - stack 練習][neoj-36]<br>[37 - queue 練習][neoj-37]     |     [531 - 排隊停車][neoj-531]<br>[5857 - 整數四則運算機][neoj-5857]     |          | [北區簡報][tp-review-ppt-w12] [北區影片][tp-review-video-w12]<br>[竹區影片][hc-review-video-w12] [竹區簡報][hc-review-ppt-w12]     |
 | 0604 |  13  |  端午節放假 |          |          |      |
-| 0611 |  14  | [369 - 書瑾與他的泡泡們][neoj-369] |  [2024 - 無聊的小明][neoj-2024] <br> [448 - 麻將排序問題][neoj-448] |          | [北區影片][tp-review-video-w14] [北區簡報][tp-review-ppt-w14]     |<br>
+| 0611 |  14  | [369 - 書瑾與他的泡泡們][neoj-369] |  [2024 - 無聊的小明][neoj-2024] <br> [448 - 麻將排序問題][neoj-448] |          | [北區影片][tp-review-video-w14] [北區簡報][tp-review-ppt-w14] <br> [竹區影片][hc-review-video-w14] [竹區簡報][hc-review-ppt-w14]   |<br>
 | 0618 |  15  | [352 - SuDoKu][neoj-352](不算分) <br> [42 - 庭院裡的水池][neoj-42] <br> [471 - 總之就是背包問題。][neoj-471]         |     [140-円円送禮物][neoj-140]     |          ||
 | 0625 | 16 | | [957 - 火車觀景台][neoj-957] | ||
 | 0702 | 17 | 第二階段檢定 | | ||
@@ -102,6 +102,8 @@
 [neoj-957]:https://neoj.sprout.tw/problem/957/
 [tp-review-video-w14]:https://youtu.be/ZP7znE9pERY
 [tp-review-ppt-w14]:https://drive.google.com/file/d/1rHweEc72Ovqnkf0evowPgmWeJSmSfuH2/view?usp=sharing
+[hc-review-video-w14]:https://youtu.be/_ePDzNeuWe8
+[hc-review-ppt-w14]:https://hackmd.io/@XYFC128/S1y9FZOF5
 [neoj-352]: https://neoj.sprout.tw/problem/352/
 [neoj-42]: https://neoj.sprout.tw/problem/42/
 [neoj-471]: https://neoj.sprout.tw/problem/471/
