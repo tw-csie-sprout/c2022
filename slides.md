@@ -193,7 +193,7 @@
 |   好用function   |  [Week15 好用function][tp-goodfunction]    |   [Week15 好用function][hc-goodfunction]   |      |
 
 [hc-goodfunction]:https://hackmd.io/IljBYA_lQxudXNzWnTuhsA?view
-[tp-recursion2]:[https://www.youtube.com/watch?v=MyF8c-2bqoU](https://slides.com/rubyku/copy-of-lmlkbhjvhgxhbfdzg/fullscreen#)
+[tp-recursion2]:https://slides.com/rubyku/copy-of-lmlkbhjvhgxhbfdzg/fullscreen#
 [hc-recursion2]:https://drive.google.com/file/d/18bHrqTBEqp08prJnToIUlgj2xrxY8HnA/view?usp=sharing
 [tp-goodfunction]:https://slides.com/jason-plainlog/c-d0dc14/fullscreen
 [hc-recursion2-yt]:https://youtu.be/7hF4HTM9Lbc
