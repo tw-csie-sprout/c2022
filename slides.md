@@ -204,7 +204,7 @@
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
 |   回顧與展望   |   [Week16 回顧與展望][tp-reviewAndfuture]   |  [Week16 複習、回顧與展望][hc-reviewAndfuture]    |  [北區影片][tp-reviewAndfuture-yt]    |
-|   大作業二講解  |      |  [Week16 大作業二講解][hc-HW2]   | [北區影片][] |
+|   大作業二講解  |      |  [Week16 大作業二講解][hc-HW2]   | [北區影片][tp-HW2-yt] |
 
 [tp-reviewAndfuture]:https://docs.google.com/presentation/d/178bD4GZa0AcFXrh2o9U-7cqLTZrJUt72PMedqzvHKKc/edit?usp=sharing
 [hc-reviewAndfuture]:https://slides.com/koios/reviewandfuture
