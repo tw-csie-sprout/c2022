@@ -204,10 +204,11 @@
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
 |   回顧與展望   |   [Week16 回顧與展望][tp-future]   |  [Week16 複習、回顧與展望][hc-reviewAndfuture]    |      |
-|      |      |      |  |
+|   大作業二講解  |      |  [Week16 大作業二講解][hc-HW2]   |  |
 
 [tp-future]:https://docs.google.com/presentation/d/178bD4GZa0AcFXrh2o9U-7cqLTZrJUt72PMedqzvHKKc/edit?usp=sharing
 [hc-reviewAndfuture]:https://slides.com/koios/reviewandfuture
+[hc-HW2]:https://docs.google.com/presentation/d/1dGZQ7wXO8dnfPg8QHgc3CQTKYBlGL7-31mkLVRzfe1g/edit?usp=sharing
 
 ## 第十七週 07/02
 
