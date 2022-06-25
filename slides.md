@@ -203,7 +203,7 @@
 
 | 主題     | 北區                       | 竹區 | 影片 |
 | -------- | -------------------------- | ---- | ---- |
-|   回顧與展望   |   [Week16 回顧與展望][tp-reviewAndfuture]   |  [Week16 複習、回顧與展望][hc-reviewAndfuture]    |  [北區影片][tp-reviewAndfuture-yt]  [竹區影片][hc-reviewAndfuture]   |
+|   回顧與展望   |   [Week16 回顧與展望][tp-reviewAndfuture]   |  [Week16 複習、回顧與展望][hc-reviewAndfuture]    |  [北區影片][tp-reviewAndfuture-yt] <br> [竹區影片][hc-reviewAndfuture-yt]   |
 |   大作業二講解  |      |  [Week16 大作業二講解][hc-HW2]   | [北區影片][tp-HW2-yt] |
 
 [tp-reviewAndfuture]:https://docs.google.com/presentation/d/178bD4GZa0AcFXrh2o9U-7cqLTZrJUt72PMedqzvHKKc/edit?usp=sharing
@@ -211,7 +211,7 @@
 [hc-HW2]:https://docs.google.com/presentation/d/1dGZQ7wXO8dnfPg8QHgc3CQTKYBlGL7-31mkLVRzfe1g/edit?usp=sharing
 [tp-reviewAndfuture-yt]:https://youtu.be/ZriPv8JknkU
 [tp-HW2-yt]:https://youtu.be/AzNbqfPm87E
-[hc-reviewAndfuture]:https://www.youtube.com/watch?v=RYlpiMJNFxM&ab_channel=sproutsprout
+[hc-reviewAndfuture-yt]:https://www.youtube.com/watch?v=RYlpiMJNFxM&ab_channel=sproutsprout
 
 ## 第十七週 07/02
 
