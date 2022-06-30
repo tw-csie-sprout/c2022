@@ -19,7 +19,7 @@
 | 0604 |  13  |  端午節放假 |          |          |      |
 | 0611 |  14  | [369 - 書瑾與他的泡泡們][neoj-369] |  [2024 - 無聊的小明][neoj-2024] <br> [448 - 麻將排序問題][neoj-448] |          | [北區影片][tp-review-video-w14] [北區簡報][tp-review-ppt-w14] <br> [竹區影片][hc-review-video-w14] [竹區簡報][hc-review-ppt-w14]   |<br>
 | 0618 |  15  | [352 - SuDoKu][neoj-352](不算分) <br> [42 - 庭院裡的水池][neoj-42] <br> [471 - 總之就是背包問題。][neoj-471]         |     [140-円円送禮物][neoj-140] <br> [1147 - Syntax Checker][neoj-1147]   |          |[北區影片][tp-review-video-w15] [北區簡報][tp-review-ppt-w15]  <br> [竹區影片][hc-review-video-w15] [竹區簡報][hc-review-ppt-w15]  |
-| 0625 | 16 | | [625 - 林那氏的書架][neoj-625]<br>[957 - 火車觀景台][neoj-957] | ||
+| 0625 | 16 | | [625 - 林那氏的書架][neoj-625]<br>[957 - 火車觀景台][neoj-957] | |[No.957 講解影片][hc-review-video-w16] [No.957 講解簡報][hc-review-ppt-w16]|
 | 0702 | 17 | 第二階段檢定 | | ||
 
 [neoj-287]: https://neoj.sprout.tw/problem/287/
@@ -113,3 +113,5 @@
 [hc-review-ppt-w15]: https://docs.google.com/presentation/d/1QVTjVab6cuioPNeSZYC7MpCdiXpR3JQeDl72-I842j8/edit?usp=sharing
 [tp-review-video-w15]: https://www.youtube.com/watch?v=d8ksP5krfBo
 [tp-review-ppt-w15]:https://hackmd.io/@IMBensonQB/H1MfuSX5q
+[hc-review-video-w16]: https://youtu.be/UW98MatUxns
+[hc-review-ppt-w16]: https://hackmd.io/@XYFC128/S1BxN1i9q
